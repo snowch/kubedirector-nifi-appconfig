@@ -1,1 +1,1 @@
-# kubedirector-nifi
+# kubedirector-nifi-appconfig
